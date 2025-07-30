@@ -18,8 +18,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=stephenburrows&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stephenburrows&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=burrows-ga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=burrows-ga&theme=tokyonight&hide_border=false)<br/>
 
 ---
 <img src="https://komarev.com/ghpvc/?username=burrows-ga&label=Profile%20views&color=0e75b6&style=plastic" alt="stephenburrows" /> </p>
